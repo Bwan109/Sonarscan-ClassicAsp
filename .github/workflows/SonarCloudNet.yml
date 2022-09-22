@@ -1,3 +1,4 @@
+# SonarCloud template for Classic ASP with .NET method
 name: Build
 on:
   push:
